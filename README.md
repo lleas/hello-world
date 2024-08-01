@@ -1,1 +1,1 @@
-###hello, this is lia, a passionate full stack developer working as a project manager in hong kong. interested in making life easier by creating utility tools.
+###hello, this is lia, a passionate full stack developer working as a project manager in hong kong. interested in making life easier by creating utility tools. always like to learn new things from others as much as helping others solve their problems.
